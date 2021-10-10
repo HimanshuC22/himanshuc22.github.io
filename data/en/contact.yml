@@ -1,0 +1,31 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : We are always looking for new exciting projects and collaborations. Feel Free to contact us!
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "IIT Bombay, Powai, Mumbai, Maharashtra, 400076"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +880-31-000-000"
+      
+    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+      info : "Fax: +880-31-000-000"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: hello@meghna.com"
+
+
+  # # Contact form
+  # contact_form:
+  #   enable : true
+  #   form_action : "#" #contact form works with https://formspree.io
+  #   name : "Your Name"
+  #   email : "Your Email"
+  #   subject : "Subject"
+  #   message : "Message"
+  #   submit : "Submit"
